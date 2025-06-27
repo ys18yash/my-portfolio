@@ -139,6 +139,7 @@ p{
     margin: 100px auto 0 auto;
     text-align: left;
     row-gap: 2rem;
+    align-items:center;
 }
 .profile {
   padding-top: 40px;
