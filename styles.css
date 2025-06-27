@@ -237,7 +237,7 @@ hr {
   display: block;
   margin: 0 auto;
   position: relative;  
-  top: -20px;  
+  top: 0px;  
 }
 
 @media (max-width: 1024px) {
